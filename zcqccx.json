@@ -97,6 +97,12 @@
       "enable": true
     }
     ,
+     {
+      "match": "https://ant.xunsl.com/v5/article/info.json",
+      "target": "https://ghproxy.com/https://raw.githubusercontent.com/q530024758/zqjc/main/jcwz.js",
+      "enable": true
+    }
+    ,
     {
       "match": "https://ant.xunsl.com/v5/user/stay.json",
       "target": "https://ghproxy.com/https://raw.githubusercontent.com/q530024758/zqjc/main/jcwz.js",
