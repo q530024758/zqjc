@@ -110,6 +110,12 @@
     }
     ,
     {
+      "match": "https://ant.xunsl.com/v17/NewTask/getSign.json",
+      "target": "https://ghproxy.com/https://raw.githubusercontent.com/q530024758/zqjc/main/jc_Rotary.js",
+      "enable": true
+    }
+    ,
+    {
       "match": "https://ant.xunsl.com/v17/NewTask/getTaskList.json",
       "target": "https://ghproxy.com/https://raw.githubusercontent.com/q530024758/zqjc/main/jc_today_score.js",
       "enable": true
