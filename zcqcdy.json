@@ -18,7 +18,7 @@
     {
       "name": "中青文章",
       "type": "cron",
-      "time": "30 7,12,18 * * *",
+      "time": "30 7,12 * * *",
       "running": true,
       "job": {
         "type": "runjs",
@@ -28,7 +28,7 @@
     {
       "name": "中青看看赚",
       "type": "cron",
-      "time": "45 9 * * *",
+      "time": "45 13 * * *",
       "running": true,
       "job": {
         "type": "runjs",
